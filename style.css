@@ -1,0 +1,16 @@
+.title {
+    font-size: 30px;
+}
+
+textarea {
+    width: 500px;
+    height: 250px;
+}
+
+flex-container {
+    display: flex;
+}
+
+button {
+    background-color: orange;
+}
